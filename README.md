@@ -18,8 +18,7 @@ font-family: 'Lobster', cursive;
 <br>
 <h3 align="center" class="class">Connect with me:</h3>
 <p align="center">
-
-    <a href="https://www.linkedin.com/in/brandon-roff-4aa2b3191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandon-roff" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/brandon-roff-4aa2b3191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="brandon-roff" height="30" width="40" /></a>
 
 
     <h3 align="center" class="class">Languages and Tools:</h3>
