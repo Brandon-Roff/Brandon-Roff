@@ -2,14 +2,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
 
-<style>
-.class{
-font-family: 'Lobster', cursive;
-}
-</style>
 
 
-<h1 align="center" class="class">Hi 👋, I'm Brandon Roff</h1>
+<h1 align="center" class="class" style="font-family: 'Lobster', cursive;">Hi 👋, I'm Brandon Roff</h1>
 <h3 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and loves to experiment, investigate and improve code to improve functionality. </h3>
 
 
