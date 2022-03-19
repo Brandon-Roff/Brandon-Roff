@@ -2,6 +2,30 @@
 <h3 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and loves to experiment, investigate and improve code to improve functionality. </h3>
 <br>
 
+<details>
+<summary>Profile visitors</summary>
+<p align="center">:round_pushpin: Profile visitors</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
+</div>
+</details>
+
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p>
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
