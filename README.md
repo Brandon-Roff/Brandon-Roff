@@ -2,7 +2,10 @@
 <h2 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and loves to experiment, investigate and improve code to improve functionality. 
 <br>
 
-<h2 align="center"> I am currently working at <b><a href="https://ormistonpark.org.uk/"target="_blank">Ormiston Park Academy</a></b> where I have pushed and utilized many open source projects to deployment like <b><a href="https://www.bookstackapp.com/"target="_blank">BookStack</a></b>,  <b><a href="https://snipeitapp.com/"target="_blank">SnipeIT</a></b>,  <b><a href="https://xibosignage.com/"target="_blank">Xibo CMS</a></b> and so <b>MANY MORE!</b></h2>
+    
+    
+   
+<h3 align="center"> I have Worked at <b><a href="https://ormistonpark.org.uk/"target="_blank">Ormiston Park Academy</a></b> where I have pushed and utilized many open source projects to deployment like <b><a href="https://www.bookstackapp.com/"target="_blank">BookStack</a></b>,  <b><a href="https://snipeitapp.com/"target="_blank">SnipeIT</a></b>,  <b><a href="https://xibosignage.com/"target="_blank">Xibo CMS</a></b> and so <b>MANY MORE!</b></h3>
 
 <br>
 <h3 align="center">Places I have both worked or working for to this day <b> Monday 8th of Augaust 2022 </b>...</h3>
