@@ -8,8 +8,7 @@
 <h3 align="center">Places I have both worked or working for to this day <b> Monday 8th of Augaust 2022 </b>...</h3>
 <br>
 <br>
-<h1 align="center"><a href="https://ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/INey2mT3hFLzcPulEtIetI1vW7KwZTjcuCRuygiEcXE/rs:fit:946:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/bUV5dXNlM2kxMEY1/Y0JRV1k3MXpBQUFB/QSZwaWQ9QXBp" alt="OPA" width="200" height="75" /> </a>     
-<a href="https://www.ormistonacademiestrust.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/_C7IbytlkVDi8kIsJWTFuiKOyB5L04H1_H5bPFPyd2M/rs:fit:300:145:1/g:ce/aHR0cDovL3d3dy5v/cm1pc3RvbnRydXN0/Lm9yZy93cC1jb250/ZW50L290LW1lZGlh/LzIwMTkvMDMvb2F0/LWxvZ28tMjAxOS0z/MDB4MTQ1LnBuZw" alt="OAT" width="150" height="75" /> </a>
+<h1 align="center">
 
 <br>
 <br>
