@@ -1,7 +1,7 @@
 <a rel="me" href="https://mastodon.nerdy-technician.social/@GitHubBot"></a>
 
 <h1 align="center" class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
-<h2 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and loves to experiment, investigate and improve code to improve functionality. 
+<h2 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
 <br>
 
 <h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and onsite</b></h3>   
@@ -19,7 +19,7 @@
 
 <br>
 
-<h2 align="center"> Here is my <a href="https://cv.brandon-roff.com/bradmin/my-cv" target="_blank"> CV or Resume,</a> also the tool I use to built my CV and in addition, I <b>Selfhost </b> it! The Software is called  <b> <a href="https://github.com/AmruthPillai/Reactive-Resume"> Reactive Resume </a> </b> you can use there hosted version <b><a href="https://rxresu.me/" target=_blank"> Here 
+<h2 align="center"> Here is my <a href="https://cv.brandon-roff.com/bradmin/my-cv" target="_blank"> CV or Resume,</a> also the tool I use to build my CV and in addition, I <b>Selfhost </b> it! The Software is called  <b> <a href="https://github.com/AmruthPillai/Reactive-Resume"> Reactive Resume </a> </b> you can use there hosted version <b><a href="https://rxresu.me/" target=_blank"> Here 
 
 <br></h2></b>
 
