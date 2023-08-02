@@ -29,7 +29,7 @@
 
 <details>
 
-<summary>Profile visitors</summary>
+<summary>Profile visitors to date</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
