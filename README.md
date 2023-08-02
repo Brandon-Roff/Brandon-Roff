@@ -43,7 +43,7 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-<h2>:zany_face: Joke of the day</h2>
+<h2>:zany_face: Joke of the day!</h2>
 <details>
 <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
