@@ -1,7 +1,22 @@
-<a rel="me" href="https://mastodon.nerdy-technician.social/roffo"></a>
+<a rel="me" href="https://mastodon.nerdy-technician.social/@roffo#"></a>
+<br>
 
-<h1 align="center" class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
-<h2 align="center" class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
+<h1 class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
+<h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
+
+<br>
+
+- 🔭 I’m currently working on [Gitadon](https://github.com/Brandon-Roff/Gitadon)
+
+- 🌱 I’m currently learning **Azure and .net Framework**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Brandon-Roff/](https://github.com/Brandon-Roff/)
+
+- 📝 I regularly write articles on [https://mastodon.nerdy-technician.social/@roffo](https://mastodon.nerdy-technician.social/@roffo)
+
+- 💬 Ask me about **Python, Docker, Firewalls**
+
+- 📫 How to reach me **info@nerdy-technician.social**
 <br>
 
 <h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise</b></h3>   
@@ -17,7 +32,9 @@
 <a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://www.ormistonacademiestrust.co.uk/wp-content/uploads/2019/04/logo-park-full.png" alt="OPA" width="200" height="200" /> </a> 
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
 
+
 <br>
+
 
 <h2 align="center"> Here is my <a href="https://cv.brandon-roff.com/bradmin/my-cv" target="_blank"> CV or Resume,</a> also the tool I use to build my CV and in addition, I <b>Selfhost </b> it! The Software is called  <b> <a href="https://github.com/AmruthPillai/Reactive-Resume"> Reactive Resume </a> </b> you can use there hosted version <b><a href="https://rxresu.me/" target=_blank"> Here 
 
