@@ -9,10 +9,12 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
+
+
+<h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality.
+
 <br>
-
-<h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. </h2>
-
+<br>
 
 
 - 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
@@ -25,7 +27,7 @@
 
 - 📫 How to reach me **roffo@nerdy-technician.social**
 
-
+</h2>
 <br>
 <br>
 
