@@ -7,7 +7,7 @@
 <p></p>
 <br>
 
-- 🔭 I’m currently working on [Bioler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
+- 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
 
 - 🌱 I’m currently learning **Intune, Lighthouse and Cisco**
 
