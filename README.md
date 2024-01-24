@@ -13,7 +13,7 @@
 
 <h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
 
-<br>
+
 
 - 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
 
@@ -26,6 +26,7 @@
 - 📫 How to reach me **roffo@nerdy-technician.social**
 
 
+<br>
 <br>
 
 <h3 align="center" class="class">Languages and Tools I utilize:</h3>
