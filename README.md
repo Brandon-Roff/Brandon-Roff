@@ -1,7 +1,23 @@
-<a rel="me" href="https://mastodon.nerdy-technician.social/@roffo#"></a>
-<br>
 
 <h1 class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
+
+<br>
+<h2>:thought_balloon: Quote of the day</h2>
+<details open>
+<summary>See    Quote</summary>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
+    </a>
+</details>
+<h2>:zany_face: Joke of the day!</h2>
+<details>
+<summary>See joke</summary>
+    <a href="https://github.com/ABSphreak/readme-jokes">
+        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+    </a>
+</details>
+<br>
+
 <h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
 
 <p></p>
@@ -34,6 +50,7 @@
  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" /> </a>
  <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" /> </a>
  <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60" /> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60" /> </a>
  
  
 
@@ -76,54 +93,6 @@
 
 <br>
 
-
-<details>
-
-<summary>Profile visitors to date</summary>
-<p align="center">:round_pushpin: Profile visitors</p>
-<div align="center">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/Carol42/count.svg">
-</div>
-</details>
-
-<h2>:thought_balloon: Quote of the day</h2>
-<details open>
-<summary>See    Quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
-<h2>:zany_face: Joke of the day!</h2>
-<details>
-<summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
-
-
-<h3 align="center" class="class"> - 👨‍💻 My projects are available at my github</h3><p align="center"> 
-<a href="https://github.com/Brandon-Roff" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" /> </a></p>
-
-<h3 align="center" class="class">Connect with me:</h3>
-<p align="center">
-<div align="center">
-  <a href="mastodon.nerdy-technician.social/roffo">
-    <img src="https://github.com/mastodon/mastodon/raw/main/lib/assets/wordmark.dark.png?raw=true" alt="Mastodon" width="120" height="40">
-  </a>
-    <a href="https://join-lemmy.org/](https://lemmy.nerdy-technician.social/u/Techno_Hobbit)" rel="noopener">
- <img width=100px height=100px src="https://raw.githubusercontent.com/LemmyNet/lemmy-ui/main/src/assets/icons/favicon.svg"></a>
-</div>
-
-
-  <br>
-<h3 align="center" class="class">SBCs and Hardware i use:</h3>
-<p align="center"> <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="rpi" height="80" </a>
-   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="60" height="60" /> </a>
-
- 
