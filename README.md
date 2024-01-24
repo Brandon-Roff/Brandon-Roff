@@ -69,7 +69,12 @@
  <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60" /> </a>
  <a href="https://www.putty.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" alt="putty" width="60" height="60" /> </a><br> 
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="Visual Studio" width="80" height="80" /> </a>
- 
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p> 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
+
+
 <br>
 
 <h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise</b></h3>   
@@ -83,16 +88,8 @@
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
 
 
-<br>
 
 
-<h2 align="center"> Here is my <a href="https://cv.brandon-roff.com/bradmin/my-cv" target="_blank"> CV or Resume,</a> also the tool I use to build my CV and in addition, I <b>Selfhost </b> it! The Software is called  <b> <a href="https://github.com/AmruthPillai/Reactive-Resume"> Reactive Resume </a> </b> you can use there hosted version <b><a href="https://rxresu.me/" target=_blank"> Here 
 
-<br></h2></b>
-
-
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Brandon-Roff&show_icons=true&theme=monokai" alt="Brandon-Roff" /></p> <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandon-Roff&layout=compact&theme=monokai"></p>
 
 
