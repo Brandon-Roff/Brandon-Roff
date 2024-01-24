@@ -2,14 +2,6 @@
 <h1 class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
 
 <br>
-<h2>:thought_balloon: Quote of the day</h2>
-<details open>
-<summary>See    Quote</summary>
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
-    </a>
-</details>
-
 
 <h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality.
 
