@@ -9,19 +9,11 @@
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
 </details>
-<h2>:zany_face: Joke of the day!</h2>
-<details>
-<summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
 <br>
 
 <h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
 
 <p></p>
-<br>
 
 - 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
 
