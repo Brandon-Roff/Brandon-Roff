@@ -4,19 +4,18 @@
 <h1 class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Brandon Roff!</h1>
 <h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality. 
 
+<p></p>
 <br>
 
-- 🔭 I’m currently working on [Gitadon](https://github.com/Brandon-Roff/Gitadon)
+- 🔭 I’m currently working on [Bioler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
 
-- 🌱 I’m currently learning **Azure and .net Framework**
+- 🌱 I’m currently learning **Intune, Lighthouse and Cisco**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Brandon-Roff/](https://github.com/Brandon-Roff/)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/Brandon-Roff/)
 
-- 📝 I regularly write articles on [https://mastodon.nerdy-technician.social/@roffo](https://mastodon.nerdy-technician.social/@roffo)
+- 💬 Ask me about **Python, Docker, HomeLabs, Debain based Distros, Powrshell, Lego**
 
-- 💬 Ask me about **Python, Docker, Firewalls**
-
-- 📫 How to reach me **info@nerdy-technician.social**
+- 📫 How to reach me **roffo@nerdy-technician.social**
 <br>
 
 <h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise</b></h3>   
