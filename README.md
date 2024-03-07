@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
 
-- 🌱 I’m currently learning **Intune, Lighthouse and Cisco**
+- 🌱 I’m currently learning **Intune, Endpoint Mangement and Ansible**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Brandon-Roff/)
 
-- 💬 Ask me about **Python, Docker, HomeLabs, Debain based Distros, Powrshell, Lego**
+- 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powrshell, Lego or Automation!**
 
 - 📫 How to reach me **roffo@nerdy-technician.social**
 
