@@ -5,15 +5,16 @@
 <br>
 
 
-- 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates)
+- 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates) and [TRMM Scripts](https://github.com/Brandon-Roff/TRMM-Scripts)
 
 - 🌱 I’m currently learning **Intune, Endpoint Mangement and Ansible**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/Brandon-Roff/)
 
-- 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powrshell, Lego or Automation!**
+- 💬 Ask me about **Python, Docker, HomeLabs, Debain-based Distros, Powershell and bash scripting, Lego or Automation!**
 
-- 📫 How to reach me **roffo@nerdy-technician.social**
+- 📫 How to reach me **roffo@nerdy-technician.social** or on my [Mastodon](https://masto.nerdy-technician.social/@Roffo)
+
 
 </h2>
 <br>
@@ -60,7 +61,7 @@
 
 <br>
 
-<h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise</b></h3>   
+<h3 align="center"> I am currently working at <b><a href="https://www.sedcom.net"target="_blank">Sedcom Networks</a></b> where I have pushed and utilized many scripts for Onsite and remote Use for 365 and on-premise and mastering  Intune and Endpoint management.</b></h3>   
     
 
 <br>
@@ -69,10 +70,3 @@
 <a href="https://www.sedcom.net/" target="_blank"> <img align="center" src="https://www.sedcom.net/wp-content/uploads/2020/01/Sedcom-Logo.png" alt="Sedcom" width="200"  /> </a>
 <a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://www.ormistonacademiestrust.co.uk/wp-content/uploads/2019/04/logo-park-full.png" alt="OPA" width="200" height="200" /> </a> 
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
-
-
-
-
-
-
-
