@@ -68,5 +68,5 @@
 <h3 align="center">Places I have both worked ...</h3>
 <h1 align="center">
 <a href="https://www.sedcom.net/" target="_blank"> <img align="center" src="logos/sedcom-logo.png" alt="Sedcom" width="200"  /> </a>
-<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://www.ormistonacademiestrust.co.uk/wp-content/uploads/2019/04/logo-park-full.png" alt="OPA" width="200" height="200" /> </a> 
+<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Ormiston_Park_Academy_Logo.png/250px-Ormiston_Park_Academy_Logo.png" alt="OPA" width="175" height="100" /> </a> 
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
