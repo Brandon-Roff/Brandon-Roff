@@ -5,7 +5,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [Boiler Plates](https://github.com/Brandon-Roff/Boiler-Plates) and [TRMM Scripts](https://github.com/Brandon-Roff/TRMM-Scripts)
+- 🔭 I’m currently working on [TRMM Scripts](https://github.com/Brandon-Roff/TRMM-Scripts)
 
 - 🌱 I’m currently learning **Intune, Endpoint Mangement and Ansible**
 
