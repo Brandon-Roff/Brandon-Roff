@@ -3,7 +3,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Linux%20Enthusiast-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
     <img src="https://img.shields.io/badge/Docker%20Poweruser-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-    <img src="https://img.shields.io/badge/Pythonista-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
     <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge" alt="Retro Gamer Badge" />
     <img src="https://img.shields.io/badge/Open%20Source%20Contributor-008000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
