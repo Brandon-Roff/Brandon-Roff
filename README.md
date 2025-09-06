@@ -1,9 +1,19 @@
 <h1 class="class" style="font-family: 'Lobster', cursive">Good day! 👋, I'm Nerdy-Technician!</h1>
-<h2 class="class"> Innovative, Opputinistic, with an intense Curiosity, and an avid student of life, I construct solutions to real-life problems and love to experiment, investigate and improve code to improve functionality.
-
 <br>
-<br>
+<p align="center">
+    <img src="https://img.shields.io/badge/Linux%20Enthusiast-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
+    <img src="https://img.shields.io/badge/Docker%20Poweruser-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
+    <img src="https://img.shields.io/badge/Pythonista-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img src="https://img.shields.io/badge/VS%20Code%20Fan-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" />
+    <img src="https://img.shields.io/badge/Retro%20Gamer-8A2BE2?style=for-the-badge" alt="Retro Gamer Badge" />
+    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-008000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
+    <img src="https://img.shields.io/badge/Automation%20Ninja-FF9800?style=for-the-badge&logo=gear&logoColor=white" alt="Automation Ninja Badge" />
+    <img src="https://img.shields.io/badge/Cloud%20Explorer-4285F4?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Explorer Badge" />
+    <img src="https://img.shields.io/badge/Markdown%20Pro-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Pro Badge" />
+</p>
 
+
+<h2 class="class"> 
 
 - 🔭 I’m currently working on [TRMM Scripts](https://github.com/Brandon-Roff/TRMM-Scripts)
 
@@ -19,6 +29,8 @@
 </h2>
 <br>
 <br>
+
+
 
 <h3 align="center" class="class">Languages and Tools I utilize:</h3>
 </p>
@@ -68,5 +80,5 @@
 <h3 align="center">Places I have both worked ...</h3>
 <h1 align="center">
 <a href="https://www.sedcom.net/" target="_blank"> <img align="center" src="logos/sedcom-logo.png" alt="Sedcom" width="200"  /> </a>
-<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Ormiston_Park_Academy_Logo.png/250px-Ormiston_Park_Academy_Logo.png" alt="OPA" width="175" height="100" /> </a> 
+<a href="https://www.ormistonpark.org.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/IGvc9cmJQvlLSoeo3qo4Vm_2bnoRSf2YHwKuNg8pm1g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy83/Lzc4L09ybWlzdG9u/X1BhcmtfQWNhZGVt/eV9sb2dvLmpwZw" alt="OPA" width="175" height="80" /> </a> 
 <a href="https://www.dvr-ltd.co.uk/" target="_blank"> <img align="center" src="https://imgs.search.brave.com/wjpRZBfNwRtIx5Ovhdd4ZDUJsg6nbzIYZxZX4X9lZPk/rs:fit:1200:500:1/g:ce/aHR0cHM6Ly9wYnMu/dHdpbWcuY29tL3By/b2ZpbGVfYmFubmVy/cy85OTkzOTA5MjQv/MTQxMzg3NDY4MC8x/NTAweDUwMA" alt="DVR LTD" width="200" height="75" /> </a> 
